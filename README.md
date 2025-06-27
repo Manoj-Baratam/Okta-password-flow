@@ -1,2 +1,1 @@
-# Okta-password-flow
-This is a password management workflow which was created for a client requirement.
+Using this workflow, administrators can manage password reset efficiently across multiple directories and users OKTA temporary password reset through the UI is dependent on the password policies and also it works only with the OKTA login page and not for the domain.
